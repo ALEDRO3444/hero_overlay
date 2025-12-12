@@ -182,7 +182,7 @@ body {
 }
 
 .feature:hover {
-    background: var(--mostaza);
+    background: rgba(255, 255, 255, 0.575);
 }
 
 .feature-icon {
